@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "hz024700",
+    "password": "dhynydor",
+    "database": "hz024703db",
+    "host": "46.229.230.164",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "hz024700",
+    "password": "dhynydor",
+    "database": "hz024703db",
+    "host": "46.229.230.164",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "hz024700",
+    "password": "dhynydor",
+    "database": "hz024703db",
+    "host": "46.229.230.164",
+    "dialect": "mysql"
+  }
+}
